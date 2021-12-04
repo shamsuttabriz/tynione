@@ -1,0 +1,286 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    /* Common part section Start */
+    .c_padding {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    /* Body Section Start */
+    body {
+        padding-top: 86px;
+    }
+    /* Header section Start */
+    header {
+        padding: 10px 0;
+    }
+    .logo {
+        width: 140px;
+    }
+    .c_toggoler {
+        padding: 0.2rem 0.7rem;
+        font-size: 1.1rem;
+    }
+    .menu ul li a {
+        margin: 15px 0 0;
+        padding: 0;
+        font-size: 20px;
+        text-align: right;
+    } 
+    /* Slider Section Start */
+    .slider {
+        padding-bottom: 60px;
+    }
+    .s_ind {
+        bottom: -62px;
+    }
+    .s_ind [data-bs-target] {
+        width: 12px;
+        height: 12px;
+    }
+    .slider_text {
+        margin-top: 10px;
+    }
+    .slider_text h1 {
+        font-size: 25px;
+    }
+    .slider_text h2 {
+        margin: 12px 0;
+        font-size: 20px;
+        padding-right: 0;
+    }
+    .slider_icons {
+        margin-top: 25px;
+    }
+    .slider_icons li i {
+        margin-right: 18px;
+        font-size: 32px;
+    }
+    /* Feature SEction start */
+    .cmn_h1 {
+        margin-bottom: 10px;
+        font-size: 22px;
+    }
+    .cmn_p {
+        padding: 0;
+        font-size: 16px;
+    }
+    .cmn_mt {
+        margin-top: 20px;
+    }
+    .f_icons {
+        margin-bottom: 5px;
+    }
+    .f_icons i {
+        font-size: 40px !important;
+    }
+    .f_text {
+        text-align: center;
+    }
+    .f_text h2 {
+        margin-bottom: 5px;
+        font-size: 20px;
+    }
+    /* Contact section start */
+    .c_form {
+        margin-top: 50px;
+        margin-bottom: 55px;
+    }
+    .c_input {
+        height: 42px;
+    }
+    .c_submit {
+        height: 42px;
+        margin-top: 15px;
+    }
+    .social_icon li {
+        margin-right: 20px !important;
+    }
+    .social_icon li i {
+        font-size: 32px;
+    }
+    /* Footer section start */
+    footer {
+        padding-bottom: 70px;
+    }
+    .f_01 {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .f_02 {
+        text-align: center;
+    }
+    .f_sd {
+        margin-top: 30px;
+    }
+    
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /* Commmon Section Start */
+    .c_padding {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    /* Body Section Start */
+    body {
+        padding-top: 93px;
+    }
+    /* Header section Start */
+    header {
+        padding: 12px 0;
+    }
+    .menu ul li a {
+        margin: 15px 0 0;
+        padding: 0;
+        font-size: 21px;
+        text-align: right;
+    } 
+    /* Slider Section Start */
+    .slider {
+        padding-bottom: 70px;
+    }
+    .s_ind {
+        bottom: -60px;
+    }
+    .slider_text {
+        margin-top: 20px;
+    }
+    .slider_text h1 {
+        font-size: 25px;
+    }
+    .slider_text h2 {
+        margin: 15px 0;
+        padding-right: 85px;
+    }
+    .slider_icons {
+        margin-top: 35px;
+    }
+    .slider_icons li i {
+        margin-right: 25px;
+        font-size: 35px;
+    }
+    /* Feature SEction start */
+    .cmn_mt {
+        margin-top: 40px;
+    }
+    .cmn_h1 {
+        margin-bottom: 10px;
+        font-size: 22px;
+    }
+    .cmn_p {
+        padding: 0px 15px;
+        font-size: 16px;
+    }
+    .f_icons {
+        margin-bottom: 5px;
+    }
+    .f_icons i {
+        font-size: 45px;
+    }
+    .f_text {
+        text-align: center;
+    }
+    .f_text h2 {
+        margin-bottom: 5px;
+        font-size: 20px;
+        color: #010101;
+    }
+    .f_text p {
+        padding-right: 0;
+    }
+    /* Contact section start */
+    .c_form {
+        margin-top: 50px;
+        margin-bottom: 55px;
+    }
+    .c_input {
+        height: 45px;
+    }
+    .c_submit {
+        height: 45px;
+        margin-top: 18px;
+    }
+    .social_icon li {
+        margin-right: 25px !important;
+    }
+    .social_icon li i {
+        font-size: 35px;
+    }
+    /* Footer section start */
+    footer {
+        padding-bottom: 70px;
+    }
+    .f_01 {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .f_02 {
+        text-align: center;
+    }
+    
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* Commmon Section Start */
+    .feature {
+        padding-top: 80px;
+        padding-bottom: 100px;
+    }
+    /* Header section */
+    .menu ul li a {
+        margin: 15px 0 0;
+        padding: 0;
+        text-align: right;
+    } 
+    /* Feature Section start */
+    .cmn_mt {
+        margin-top: 40px;
+    }
+    .cmn_h1 {
+        margin-bottom: 15px;
+    }
+    .cmn_p {
+        padding: 0;
+    }
+    .f_text {
+        text-align: center;
+    }
+    /* Contact section start */
+    .c_form {
+        margin-top: 55px;
+        margin-bottom: 60px;
+    }
+    /* Footer section start */
+    footer {
+        padding-bottom: 100x;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    /* Feature Section Start */
+    .cmn_p {
+        padding: 0 10px;
+    }
+    .f_text p {
+        padding: 0;
+    }
+
+}
+
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+
+
+}
+
+/* Extra extra large devices (extra large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+
+
+
+}
